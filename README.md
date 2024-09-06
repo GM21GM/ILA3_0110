@@ -10,7 +10,8 @@ Teammitglieder: **Gabriel** **Bischof**, Giuliano Martullo
 
 | Datum    | Version | Zusammenfassung                                                          |
 | -------- | ------- | ------------------------------------------------------------------------ |
-|   23.08.2024       | 0.1       |  Wir haben unsere Planung erstellt und haben mit den ersten Arbeitespaketen angefangen.                                                                        |
+|   23.08.2024       | 0.1       |  Wir haben unsere Planung erstellt und haben mit den ersten Arbeitespaketen angefangen.|
+|30.08.2024|0.2| Wir haben uns anfangs Tag besprochen und haben danach mit dem Abarbeiten der Arbeitspakete weitergemacht|
 
 ## 1 Informieren
 
